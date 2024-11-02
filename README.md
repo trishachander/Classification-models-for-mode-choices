@@ -59,8 +59,7 @@ Logistic Regression parameters:
    - **KNN & Nearest Centroid**: Better at minority class detection
    - **SVM**: Struggled with imbalanced classes
    - 
-![image](https://github.com/user-attachments/assets/62d8da83-2e68-4ee6-a19a-449f30a4a67b){ width: 200px; }
-
+<img src="https://github.com/user-attachments/assets/62d8da83-2e68-4ee6-a19a-449f30a4a67b" width="400">
 
 ### 🎓 Technical Lessons Learned
 1. **Data Preprocessing Insights**
